@@ -1,0 +1,12 @@
+[submodule "CompilerPhase1"]
+	path = CompilerPhase1
+	url = https://github.com/sh-soltanpour/CompilerPhase1
+[submodule "CompilerPhase2"]
+	path = CompilerPhase2
+	url = https://github.com/sh-soltanpour/CompilerPhase2
+[submodule "CompilerPhase3"]
+	path = CompilerPhase3
+	url = https://github.com/sh-soltanpour/CompilerPhase3
+[submodule "CompilerPhase4"]
+	path = CompilerPhase4
+	url = https://github.com/sh-soltanpour/CompilerPhase4
